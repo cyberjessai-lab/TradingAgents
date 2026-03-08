@@ -217,3 +217,6 @@ __marimo__/
 
 # Cache
 **/data_cache/
+eval_results/
+nemo_results/
+.env
